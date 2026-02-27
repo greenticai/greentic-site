@@ -90,7 +90,7 @@ const sections = [
           </p>
           <a
             className="text-primary hover:underline text-sm font-medium"
-            href="https://github.com/greentic-ai/greentic/blob/main/docs/TOOLS.md"
+            href="https://github.com/greenticai/greentic/blob/main/docs/TOOLS.md"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -108,7 +108,7 @@ const sections = [
           </p>
           <a
             className="text-primary hover:underline text-sm font-medium"
-            href="https://github.com/greentic-ai/greentic/blob/main/docs/PLUGIN.md"
+            href="https://github.com/greenticai/greentic/blob/main/docs/PLUGIN.md"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -126,7 +126,7 @@ const sections = [
           </p>
           <a
             className="text-primary hover:underline text-sm font-medium"
-            href="https://github.com/greentic-ai/greentic/blob/main/docs/PROCESSES.md"
+            href="https://github.com/greenticai/greentic/blob/main/docs/PROCESSES.md"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -144,7 +144,7 @@ const sections = [
           </p>
           <a
             className="text-primary hover:underline text-sm font-medium"
-            href="https://github.com/greentic-ai/greentic/blob/main/docs/AGENTS.md"
+            href="https://github.com/greenticai/greentic/blob/main/docs/AGENTS.md"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -322,7 +322,7 @@ greentic flow stop <flow-id>`}
           </p>
           <a
             className="text-primary hover:underline text-sm font-medium"
-            href="https://github.com/greentic-ai/greentic/blob/main/docs/VISION.md"
+            href="https://github.com/greenticai/greentic/blob/main/docs/VISION.md"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -339,43 +339,43 @@ const guides = [
     title: "Build MCP Tools",
     description: "Create secure WebAssembly tools with wit-bindgen, secrets handling, and JSON schemas.",
     icon: FileCode,
-    href: "https://github.com/greentic-ai/greentic/blob/main/docs/TOOLS.md",
+    href: "https://github.com/greenticai/greentic/blob/main/docs/TOOLS.md",
   },
   {
     title: "Telegram Channel Setup",
     description: "Generate a bot token with BotFather and connect Telegram to your flows in minutes.",
     icon: MessageCircle,
-    href: "https://github.com/greentic-ai/greentic/blob/main/docs/TELEGRAM.md",
+    href: "https://github.com/greenticai/greentic/blob/main/docs/TELEGRAM.md",
   },
   {
     title: "Channel Plugin Guide",
     description: "Implement JSON-RPC plugins in Rust, Node.js, Go, or any language that speaks stdio.",
     icon: Plug,
-    href: "https://github.com/greentic-ai/greentic/blob/main/docs/PLUGIN.md",
+    href: "https://github.com/greenticai/greentic/blob/main/docs/PLUGIN.md",
   },
   {
     title: "Process Nodes",
     description: "Use debug, script, template, QA, and Wasm process nodes to control your flows.",
     icon: Workflow,
-    href: "https://github.com/greentic-ai/greentic/blob/main/docs/PROCESSES.md",
+    href: "https://github.com/greenticai/greentic/blob/main/docs/PROCESSES.md",
   },
   {
     title: "Contributing Guide",
     description: "Fork the repo, run the test suite, and ship improvements with our community.",
     icon: Users,
-    href: "https://github.com/greentic-ai/greentic/blob/main/docs/CONTRIBUTING.md",
+    href: "https://github.com/greenticai/greentic/blob/main/docs/CONTRIBUTING.md",
   },
   {
     title: "Security Policy",
     description: "Report vulnerabilities responsibly and keep Greentic safe for everyone.",
     icon: Shield,
-    href: "https://github.com/greentic-ai/greentic/blob/main/docs/SECURITY.md",
+    href: "https://github.com/greenticai/greentic/blob/main/docs/SECURITY.md",
   },
   {
     title: "Code of Conduct",
     description: "Help maintain a respectful, inclusive community for all contributors.",
     icon: Users,
-    href: "https://github.com/greentic-ai/greentic/blob/main/docs/CODE_OF_CONDUCT.md",
+    href: "https://github.com/greenticai/greentic/blob/main/docs/CODE_OF_CONDUCT.md",
   },
 ];
 
@@ -399,7 +399,7 @@ const Docs = () => {
                 </Link>
               </Button>
               <Button variant="outline" size="sm" asChild>
-                <a href="https://github.com/greentic-ai/greentic" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/greenticai/greentic" target="_blank" rel="noopener noreferrer">
                   <Github className="mr-2 w-4 h-4" />
                   GitHub
                 </a>
@@ -440,7 +440,7 @@ const Docs = () => {
                 <p className="text-lg text-muted-foreground max-w-2xl">
                   Everything you need from the{" "}
                   <a
-                    href="https://github.com/greentic-ai/greentic"
+                    href="https://github.com/greenticai/greentic"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary hover:underline"
@@ -507,7 +507,7 @@ const Docs = () => {
               <div className="space-y-3 text-sm">
                 <a
                   className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
-                  href="https://github.com/greentic-ai/greentic"
+                  href="https://github.com/greenticai/greentic"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -516,7 +516,7 @@ const Docs = () => {
                 </a>
                 <a
                   className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
-                  href="https://github.com/greentic-ai/greentic/blob/main/README.md"
+                  href="https://github.com/greenticai/greentic/blob/main/README.md"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -566,7 +566,7 @@ const Docs = () => {
                 Docs
               </Link>
               <a
-                href="https://github.com/greentic-ai/greentic"
+                href="https://github.com/greenticai/greentic"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary transition-colors"
@@ -592,3 +592,4 @@ const Docs = () => {
 };
 
 export default Docs;
+
