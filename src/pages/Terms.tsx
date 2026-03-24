@@ -24,7 +24,7 @@ const Terms = () => {
                 </Link>
               </Button>
               <Button variant="outline" size="sm" asChild>
-                <a href="https://github.com/greentic-ai/greentic" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/greenticai/greentic" target="_blank" rel="noopener noreferrer">
                   <Github className="mr-2 w-4 h-4" />
                   GitHub
                 </a>
@@ -177,7 +177,7 @@ const Terms = () => {
                 <li>
                   Refer to the{" "}
                   <a
-                    href="https://github.com/greentic-ai/greentic/blob/main/docs/CONTRIBUTING.md"
+                    href="https://github.com/greenticai/greentic/blob/main/docs/CONTRIBUTING.md"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary hover:underline"
@@ -260,7 +260,7 @@ const Terms = () => {
             
             <div className="flex gap-8 text-muted-foreground">
               <Link to="/docs" className="hover:text-primary transition-colors">Docs</Link>
-              <a href="https://github.com/greentic-ai/greentic" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">GitHub</a>
+              <a href="https://github.com/greenticai/greentic" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">GitHub</a>
               <Link to="/privacy" className="hover:text-primary transition-colors">Privacy</Link>
               <Link to="/terms" className="hover:text-primary transition-colors">Terms</Link>
             </div>
@@ -276,3 +276,4 @@ const Terms = () => {
 };
 
 export default Terms;
+

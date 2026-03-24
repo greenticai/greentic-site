@@ -39,13 +39,13 @@ const Index = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
               <Button size="lg" className="text-lg px-8 py-6 bg-gradient-to-r from-primary to-primary-glow hover:opacity-90 transition-opacity shadow-lg" asChild>
-                <a target="_blank" href="https://www.waitlistr.com/lists/809ac97a/greentic-ai-waiting-list?ref=lnk">
+                <a target="_blank" href="https://www.waitlistr.com/lists/809ac97a/greenticai-waiting-list?ref=lnk">
                   Join the Waitlist
                   <ArrowRight className="ml-2 w-5 h-5" />
                 </a>
               </Button>
               <Button size="lg" variant="outline" className="text-lg px-8 py-6 border-2" asChild>
-                <a href="https://github.com/greentic-ai/greentic-dev" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/greenticai/greentic-dev" target="_blank" rel="noopener noreferrer">
                   <Github className="mr-2 w-5 h-5" />
                   View on GitHub
                 </a>
@@ -353,7 +353,7 @@ const Index = () => {
             </p>
             
             <Button size="lg" className="bg-gradient-to-r from-primary to-primary-glow hover:opacity-90 text-lg px-8 py-6" asChild>
-              <a href="https://medium.com/@greentic-ai" target="_blank" rel="noopener noreferrer">
+              <a href="https://medium.com/@greenticai" target="_blank" rel="noopener noreferrer">
                 <Mail className="mr-2 w-5 h-5" />
                 Follow on Medium
               </a>
@@ -361,7 +361,7 @@ const Index = () => {
             
             <div className="flex justify-center gap-4 pt-4">
               <Button variant="outline" size="lg" asChild>
-                <a href="https://github.com/greentic-ai/greentic" target="_blank" rel="noopener noreferrer" aria-label="Greentic on GitHub">
+                <a href="https://github.com/greenticai/greentic" target="_blank" rel="noopener noreferrer" aria-label="Greentic on GitHub">
                   <Github className="mr-2 w-5 h-5" />
                   GitHub
                 </a>
@@ -375,7 +375,7 @@ const Index = () => {
                 </a>
               </Button>
               <Button variant="outline" size="lg" asChild>
-                <a href="https://www.linkedin.com/company/greentic-ai/about/" target="_blank" rel="noopener noreferrer" aria-label="Greentic on LinkedIn">
+                <a href="https://www.linkedin.com/company/greenticai/about/" target="_blank" rel="noopener noreferrer" aria-label="Greentic on LinkedIn">
                   <Linkedin className="mr-2 w-5 h-5" />
                   LinkedIn
                 </a>
@@ -383,7 +383,7 @@ const Index = () => {
             </div>
             
             <Button size="lg" className="mt-4 bg-gradient-to-r from-primary to-primary-glow hover:opacity-90" asChild>
-              <a target="_blank" href="https://www.waitlistr.com/lists/809ac97a/greentic-ai-waiting-list?ref=lnk">
+              <a target="_blank" href="https://www.waitlistr.com/lists/809ac97a/greenticai-waiting-list?ref=lnk">
                 Join Early Access
                 <ArrowRight className="ml-2 w-5 h-5" />
               </a>
@@ -410,7 +410,7 @@ const Index = () => {
             
             <div className="flex gap-8 text-muted-foreground">
               <Link to="/docs" className="hover:text-primary transition-colors">Docs</Link>
-              <a href="https://github.com/greentic-ai/greentic" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">GitHub</a>
+              <a href="https://github.com/greenticai/greentic" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">GitHub</a>
               <Link to="/privacy" className="hover:text-primary transition-colors">Privacy</Link>
               <Link to="/terms" className="hover:text-primary transition-colors">Terms</Link>
             </div>
@@ -426,3 +426,4 @@ const Index = () => {
 };
 
 export default Index;
+
